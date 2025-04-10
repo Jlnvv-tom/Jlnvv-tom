@@ -4,7 +4,7 @@
 
 - 💼 I’m currently working in Guangzhou, China.
 - 👨🏻‍💻 I’m currently learning Vue/React/JavaScript/TypeScript.
-- 👏🏻 Welcome to **[my blog](https://Jlnvv-tom.github.io/my-blog)** and look forward to communicating with you.
+- 👏🏻 Welcome to **[my blog](https://jlnvv-tom.github.io/wujihuan-doc/)** and look forward to communicating with you.
 
 **Languages:**
 
@@ -28,8 +28,6 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff)
 ![Less](https://img.shields.io/badge/-Less-1d365d?logo=Less&logoColor=white)
 ![ECharts](https://img.shields.io/badge/-ECharts-C0C0C0?logo=Apache-ECharts&logoColor=AA344D)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=FFF)
-![BootStrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=FFF)
 
 **Tools:**
 
